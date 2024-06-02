@@ -5,3 +5,4 @@ A collection of python scripts that you might find useful :)
 - Youtube transcriber
 - QR code generator
 - Kindle clips
+- Sending emails
