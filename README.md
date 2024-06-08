@@ -6,3 +6,4 @@ A collection of python scripts that you might find useful :)
 - QR code generator
 - Kindle clips
 - Sending emails
+- PDF reader
